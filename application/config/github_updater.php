@@ -3,6 +3,7 @@
 /**
  * The user name of the git hub user who owns the repo
  */
+// FROM THE UPDATED REPOSITORY
 $config['github_user'] = 'karsanrichard';
 
 /**
